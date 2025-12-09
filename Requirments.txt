@@ -1,0 +1,8 @@
+Requirments:
+
+
+Streamlit
+Scikit-Learn 
+NumPy 
+Pandas 
+Pickle-mixin

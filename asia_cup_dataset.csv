@@ -1,0 +1,13 @@
+Match_ID,Year,Match_Date,Team1,Team2,Winner,Margin,Venue,Match_Type,Player_of_Match
+1,2018,2018-09-15,India,Pakistan,India,8 wickets,Dubai,ODI,Rohit Sharma
+2,2018,2018-09-19,India,Afghanistan,Tied,Match tied,Dubai,ODI,Rashid Khan
+3,2018,2018-09-23,Pakistan,Bangladesh,Bangladesh,37 runs,Abu Dhabi,ODI,Mushfiqur Rahim
+4,2018,2018-09-28,India,Bangladesh,India,3 wickets,Dubai,ODI,Litton Das
+5,2022,2022-08-28,India,Pakistan,India,5 wickets,Dubai,T20,Hardik Pandya
+6,2022,2022-09-04,Pakistan,India,Pakistan,5 wickets,Dubai,T20,Mohammad Rizwan
+7,2022,2022-09-11,Sri Lanka,Pakistan,Sri Lanka,23 runs,Dubai,T20,Bhanuka Rajapaksa
+8,2016,2016-02-24,Bangladesh,India,India,45 runs,Mirpur,T20,Virat Kohli
+9,2016,2016-02-27,Pakistan,India,India,5 wickets,Mirpur,T20,Virat Kohli
+10,2016,2016-03-06,Bangladesh,Sri Lanka,Bangladesh,23 runs,Mirpur,T20,Soumya Sarkar
+11,2014,2014-03-01,Pakistan,India,Pakistan,1 wicket,Mirpur,ODI,Shahid Afridi
+12,2014,2014-03-08,Pakistan,Sri Lanka,Sri Lanka,5 wickets,Mirpur,ODI,Lahiru Thirimanne
