@@ -3,7 +3,6 @@
 
 
 
-
 # **Cricket Match Winner Predictor (Asia Cup)**
 A machine learning web application that predicts the **winner of a cricket match** using historical Asia Cup data.  
 Built with **Python, Random Forest Classifier, and Streamlit**.
